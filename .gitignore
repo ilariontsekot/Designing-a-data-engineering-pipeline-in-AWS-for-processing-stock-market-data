@@ -1,0 +1,47 @@
+.env
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Environment variables and secrets
+.env
+.env.*
+*.pem
+*.key
+*.crt
+credentials
+aws_credentials
+.aws/
+
+# IDE
+.idea/
+.vscode/
+
+# macOS
+.DS_Store
+
+# Local data and outputs
+data/
+out/
+outputs/
+*.csv
+*.parquet
+*.jsonl
+
+# Logs
+*.log
+
+# Build/deployment packages
+*.zip
+dist/
+build/out.json
+scripts/test_s3_upload.py
+scripts/test_s3_upload.py
