@@ -43,6 +43,9 @@ The architecture uses:
 - **Amazon CloudWatch** for logs, monitoring and operational observability.
 - **AWS IAM** to control permissions between services.
 
+
+![AWS data pipeline architecture](docs/images/aws-pipeline-architecture.png)
+
 ## Repository Structure
 
 ```text
