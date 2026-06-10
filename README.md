@@ -45,7 +45,7 @@ The architecture uses:
 
 ## Architecture Diagram
 
-![AWS data pipeline architecture](docs/images/aws-pipeline-architecture.png)
+![AWS data pipeline architecture](docs/diagrams/tfgfinal.png)
 
 ## Repository Structure
 
